@@ -82,5 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=ninixzzs&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=ninixzzs&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+  
