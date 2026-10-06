@@ -43,8 +43,6 @@
   </tr>
 </table>
 
-<br />
-
 <!-- TECH STACK -->
 <h2 align="center">
   <font color="#FF007F">💻 TECH STACK & TOOLS</font>
