@@ -75,11 +75,10 @@
 <br />
 
 <!-- FOOTER -->
-<hr style="border: 1px solid #FF007F;" />
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF007F&height=2" width="100%" alt="Linha Divisória" />
+  <br /><br />
   <p><i>"Unindo a precisão da Engenharia de Software à criatividade do Design."</i></p>
+  <br />
   <img src="https://komarev.com/ghpvc/?username=ninixzzs&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-  
