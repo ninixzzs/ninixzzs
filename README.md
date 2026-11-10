@@ -61,15 +61,13 @@
 <br />
 
 <!-- GITHUB STATS -->
-<h2 align="center">
-  <font color="#FF007F">📊 GITHUB ANALYTICS</font>
-</h2>
+<!-- GITHUB STATS -->
+<h2 align="center" style="color: #FF007F;">📊 GITHUB ANALYTICS</h2>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ninixzzs&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF007F&icon_color=FFB6C1&text_color=ffffff&bg_color=19030e" alt="Nicolly's Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninixzzs&layout=compact&theme=radical&hide_border=true&title_color=FF007F&icon_color=FFB6C1&text_color=ffffff&bg_color=19030e" alt="Top Languages" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninixzzs&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF007F&icon_color=FFB6C1&text_color=ffffff&bg_color=19030e" alt="Nicolly's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninixzzs&layout=compact&theme=radical&hide_border=true&title_color=FF007F&icon_color=FFB6C1&text_color=ffffff&bg_color=19030e" alt="Top Languages" width="48%" />
+</p>
 <br />
 
 <!-- FOOTER -->
